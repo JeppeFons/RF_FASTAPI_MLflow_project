@@ -17,5 +17,8 @@ mlflow server `
 
 ## Forklaring af datasæt og kilde
 
+Link til datasæt:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Resultater og konklusioner
