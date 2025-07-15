@@ -1,0 +1,4 @@
+Best Hyperparameters:
+{'rf__max_depth': None, 'rf__max_features': 'sqrt', 'rf__n_estimators': 200}
+
+Best Cross-Validated F1-score: 0.8491
