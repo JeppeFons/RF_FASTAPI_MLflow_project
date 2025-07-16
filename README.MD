@@ -15,6 +15,16 @@ mlflow server `
   --host 127.0.0.1 `
   --port 5000
 
+
+**model skal gemmes i roden af projektet sammen med main.py og så kør nedenstående for at starte appen**
+
+uvicorn main:app --reload
+
+**gå til** 
+
+http://127.0.0.1:8000/docs
+
+
 ## Forklaring af datasæt og kilde
 
 Link til datasæt:
